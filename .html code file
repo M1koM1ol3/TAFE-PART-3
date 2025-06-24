@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>TipToe Shoes</title>
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+ 
+  <!-- Header -->
+<header>
+<div class="header-container">
+<img src="https://reiyua.github.io/TiptoeSoleStore/assets/TipToe_Soles_Logo_colour.jpg" alt="Logo" class="Logo">
+ 
+      <nav class="main-nav">
+<ul>
+<li><a href="#">About Us</a></li>
+<li><a href="#">Products</a></li>
+<li><a href="#">Services</a></li>
+<li><a href="#">Contact Us</a></li>
+</ul>
+</nav>
+ 
+      <div class="user-section">
+<nav class="user-nav">
+<ul>
+<li><a href="#">Login</a></li>
+<li><a href="#">Cart</a></li>
+</ul>
+</nav>
+<input type="text" placeholder="Search" class="search-bar">
+</div>
+</div>
+</header>
+ 
+  <!-- Banner -->
+<aside class="banner">
+<img src="https://static.vecteezy.com/system/resources/previews/059/958/723/non_2x/creative-promotional-banner-for-sneaker-brand-sneakers-in-abstract-background-shoes-sale-banner-for-social-media-post-shoe-on-sale-slider-for-e-commerce-websites-or-social-media-readymade-banner-vector.jpg" alt="Banner" class="Banner">
+</aside>
+ 
+  <!-- Main Content -->
+<main>
+<section class="hero">
+<h2>Explore our wide variety of shoes with high quality products and services here</h2>
+</section>
+ 
+    <section class="grid-layout">
+<div class="grid-item"><img src="https://fairdealshoes.net/cdn/shop/products/20221126145635_IMG_2332_800x.jpg?v=1670400641" alt="Product 1"></div>
+<div class="grid-item"><img src="https://imgix.bustle.com/uploads/image/2024/12/18/7ab36cab/milan-italy-september-21.jpeg?w=248&h=372&fit=crop&crop=focalpoint&dpr=2&fp-x=0.5051&fp-y=0.5403" alt="Product 2"></div>
+<div class="grid-item"><img src="https://media.istockphoto.com/id/182862822/photo/tiptoe-for-kissing.jpg?s=612x612&w=0&k=20&c=vnWqMYAg8d9s_oHE4cz34pXi-4PHVkWQmrHSAAqS-gY=" alt="Product 3"></div>
+<div class="grid-item"><img src="https://anyasreviews.com/wp-content/uploads/2022/01/Freet-Pace-Front-Close-Worn.jpg" alt="Product 4"></div>
+<div class="grid-item">
+<img src="https://preview.redd.it/msy9pl2ozxu31.jpg?width=640&crop=smart&auto=webp&s=e764aeecb251193292fac63cd06689c401d1e1d5" alt="Image Product 1">
+</div>
+<div class="grid-item">
+<img src="https://media.istockphoto.com/id/588382148/photo/stair-exercise.jpg?s=612x612&w=0&k=20&c=_xSXNIn3Qx_yRX1bnwQaBA8KbdhvK8dq3o73350_t48=" alt="Image Product 2">
+</div>
+</section>
+ 
+    <section class="flexbox-section">
+<h3>We also provide disability services for those who are unable to navigate and engage with our website</h3>
+      <div class="flex-item"><a href="#">Audio/Video Accessibility</a></div>
+      <div class="flex-item"><a href="#">Vision impairment Accessibility</a></div>
+      <div class="flex-item"><a href="#">Epilepsy Accessibility</a></div>
+</section>
+</main>
+ 
+  <!-- Footer -->
+<footer>
+<div class="footer-container">
+<p>&copy; 2025 TipToe Shoes. All rights reserved.</p>
+<div class="social-media">
+<a href="#">Facebook</a>
+<a href="#">Instagram</a>
+<a href="#">X</a>
+<a href="#">TikTok</a>
+</div>
+<div class="feedback-form">
+<a href="#">Feedback</a>
+</div>
+<div class="sitemap">
+<a href="#">Sitemap</a>
+</div>
+</div>
+</footer>
+ 
+</body>
+</html>
